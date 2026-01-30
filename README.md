@@ -1,8 +1,8 @@
 # VoraAGI
 
 <div align="center">
-  <img src="https://ibb.co/Q3bFRrxb"<img width="974" height="756" alt="image" src="https://github.com/user-attachments/assets/e11f9118-4cf3-4b8a-b1cb-e24c76adef14" />
- alt="VoraAI Logo" width="200"/>
+  <img src="https://ibb.co/Q3bFRrxb"<img width="974" height="756" alt="image" src="https://ibb.co/Q3bFRrxb" />
+
   <h3>Next-Generation AI Agent Orchestration Platform</h3>
   <p>Empowering AI Collaboration Through Advanced Agent Orchestration</p>
 
