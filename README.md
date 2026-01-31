@@ -1,7 +1,9 @@
-# VoraAGI
+# Clawdius
 
 <div align="center">
-  <img src="https://i.ibb.co/wF0NXM20/image.png"<img width="974" height="756" alt="image" src="[https://ibb.co/Q3bFRrxb](https://i.ibb.co/wF0NXM20/image.png)" />
+  <img src="<img width="670" height="636" alt="image" src="https://github.com/user-attachments/assets/95606acd-e9d3-4a04-9dc4-eeac568272ae" />
+"<img width="974" height="756" alt="image" src="<img width="670" height="636" alt="image" src="https://github.com/user-attachments/assets/58d762da-aed9-4fc5-b617-f5c795464758" />
+" />
 
   <h3>Next-Generation AI Agent Orchestration Platform</h3>
   <p>Empowering AI Collaboration Through Advanced Agent Orchestration</p>
