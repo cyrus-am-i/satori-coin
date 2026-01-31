@@ -5,7 +5,7 @@
 
   <h3>Clawdius is my personal fork of openclaw I created as a fun project for housekeeping</h3>
   <p>The soon to be released token acts as a payment option to access more housekeeping services</p>
- <p>Picture a world where your personal AI agent not only solves your digital problems, but is also capable of vacuuming your house and adjusting the lighting and adjustable fixtures to suit everyone's needs</p>
+ <p>Picture a world where your personal AI agent not only solves your digital problems, but is also capable of vacuuming your house and adjusting the lighting and other fixtures to suit everyone's needs </p>
   <div align="center">
     <img src="https://img.shields.io/badge/next.js-14-black" alt="Next.js" />
     <img src="https://img.shields.io/badge/typescript-5-blue" alt="TypeScript" />
