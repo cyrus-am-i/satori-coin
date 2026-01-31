@@ -1,7 +1,7 @@
 # Clawdius
 
 <div align="center">
-  <img width="670" height="636" alt="Next-Generation AI Orchestration" src="https://i.ibb.co/G3rHG3Bz/Gemini-Generated-Image-fyz93ifyz93ifyz9.png" />
+  <img width="670" height="636" alt="Next-Generation AI Orchestration" src="https://i.ibb.co/Z12t6wqn/image.png" />
 
   <h3>Next-Generation AI Agent Orchestration Platform</h3>
   <p>Empowering AI Collaboration Through Advanced Agent Orchestration</p>
