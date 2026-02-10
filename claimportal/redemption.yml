@@ -1,0 +1,42 @@
+name: "📦 Physical Coin Redemption"
+description: "Submit your $SATORI proof of payment for a physical Solana coin."
+title: "[CLAIM]: Physical Solana Coin - <YourUsername>"
+labels: ["redemption-pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Thank you for your $SATORI contribution.
+        Please fill out the form below. Our team will verify the transaction within 24-48 hours.
+  - type: input
+    id: txid
+    attributes:
+      label: "Solana Transaction Signature (TxID)"
+      description: "Paste the signature from Solscan or Solana Explorer."
+      placeholder: "e.g. 4n7u..."
+    validations:
+      required: true
+  - type: dropdown
+    id: coin-type
+    attributes:
+      label: "Asset Choice"
+      options:
+        - "Standard Anodized Purple"
+        - "Premium Gold-Plated Edition"
+    validations:
+      required: true
+  - type: textarea
+    id: shipping
+    attributes:
+      label: "Encrypted Shipping Info"
+      description: "Please provide a PGP-encrypted block or a secure link (Privnote) with your Name, Address, and Phone Number."
+      placeholder: "-----BEGIN PGP MESSAGE----- ..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: "Final Confirmation"
+      options:
+        - label: "I understand that $SATORI sent to the vault is non-refundable."
+          required: true
