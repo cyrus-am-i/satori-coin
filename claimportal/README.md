@@ -44,7 +44,7 @@ The **$SATORI** ecosystem expands. You can now burn or exchange your digital $SA
 ### ⌈ <font color="#14F195">SECURE VAULT ADDRESS</font> ⌋
 
 > [!CAUTION]
-> **ONLY** send $SATORI tokens to the address listed below. Sending to any other address will result in total loss of funds and no physical asset delivery.
+> **ONLY** interact and send $SATORI tokens to the address listed below. Sending to any other address will result in total loss of funds and no physical asset delivery.
 
 `EToyu35v4WwJQs3LXrY94ap1vHwWafZ4dxXdufXNUTKo`
 
