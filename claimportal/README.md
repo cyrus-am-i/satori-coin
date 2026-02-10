@@ -1,7 +1,7 @@
 # <p align="center"><font color="#9945FF">◈ THE SATORI SOLANA MINT</font></p>
 
 <p align="center">
-  <img src="https://i.ibb.co/3Y04Wvhp/image.png" alt="Satori Solana Banner" width="100%">
+  <img src="https://i.ibb.co/5xYLqdNn/image.png" alt="Satori Solana Banner" width="100%">
 </p>
 
 <p align="center">
