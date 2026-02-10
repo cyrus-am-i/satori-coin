@@ -1,6 +1,10 @@
 # <p align="center"><font color="#9945FF">◈ THE SATORI SOLANA MINT</font></p>
 
 <p align="center">
+  <img src="https://i.ibb.co/3Y04Wvhp/image.png" alt="Satori Solana Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Accepted_Currency-$SATORI_(Pump.fun)-9945FF?style=for-the-badge&logo=solana" />
   <img src="https://img.shields.io/badge/Asset-Physical_SOL_Coin-14F195?style=for-the-badge" />
 </p>
@@ -10,9 +14,9 @@
 ### ⌈ <font color="#9945FF">PHASE 01: THE SWAP</font> ⌋
 The **$SATORI** ecosystem expands. You can now burn or exchange your digital $SATORI tokens for a limited-edition physical Solana cold-storage coin.
 
-* **Asset Type:** 39mm High-Relief Zinc Alloy / Gold Plated
-* **Digital Requirement:** `[ REDACTED ]` $SATORI Tokens
-* **Utility:** Contains a unique Solana private key slot behind a tamper-evident Satori hologram.
+* 🟣 **Asset Type:** 39mm High-Relief Zinc Alloy / Gold Plated
+* 🟢 **Digital Requirement:** `[ REDACTED ]` $SATORI Tokens
+* 🟣 **Utility:** Contains a unique Solana private key slot behind a tamper-evident Satori hologram.
 
 ---
 
